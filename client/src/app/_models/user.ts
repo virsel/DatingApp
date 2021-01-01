@@ -2,3 +2,6 @@
   username: string;
   token: string;
 }
+
+
+let data = 42;
